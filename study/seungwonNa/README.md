@@ -11,7 +11,7 @@
   - total_01 코드 개선
 - whisper_total_03_keras.py
   - total_02 코드에서 감정 인식 모델 변경(keras)
-  - 
+
 ## Check Performance in Rqt
 - check_performance 폴더 코드 각 터미널에서 실행 + rqt 실행
   - rqt화면에서 감정 인식 모델 성능 확인 가능
